@@ -62,7 +62,13 @@ curl -O https://raw.githubusercontent.com/magictomagic/V2Ray-shell/master/mtm-v1
 >
 > 将脚本依赖的源放入自己 github 与硬盘中，以备不时之需
 >
-> 整合 bbr 加速脚本，配置更方便
+> 整合 bbr 加速脚本，配置更方便(CentOs 8 自带)
+>
+> 新翻墙方法 [Trojan](https://fanqiang.network/105441.html)、[一键脚本](https://www.atrandys.com/2019/2154.html)、[相关教程1](http://program-thinker.blogspot.com/2018/10/trojandebian.html)、[教程2](https://dafahao.com/trojan-caddy.html)、[教程3]()
+>
+> 
+
+
 >
 > 
 
